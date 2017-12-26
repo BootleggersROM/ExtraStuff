@@ -7,7 +7,7 @@
 * OmniJaws: Weather on QS
 * Volume Keys: Wake up, skip tracks and switch according to rotation
 * Dirty Unicorns Interface (DUI): Fling, Smartbar and Pulse
-* Show song cover and battery info on Lockscreen
+* Show song album cover and battery info on Lockscreen
 * Custom Carrier Label
 * Power Menu Items
 * AOSP Recents: Membar, Clear All and Inmersive Recents.
