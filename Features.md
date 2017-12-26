@@ -47,4 +47,6 @@
 * Night Light settings
 * Unlink notification volume from ringtone volume
 * Disable Screenshot sound
+* Roboto Condensed as Default Font
+* GoBold Light as Lockscreen font
 * Maybe more but i totally forgot about it
