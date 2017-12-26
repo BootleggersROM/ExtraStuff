@@ -4,6 +4,7 @@ Please, read the comments on the code given below, so you can customize on your 
 
 
 ###Post 1
+
 [CENTER][IMG="The main logo"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/00-banner.png[/IMG]
 
 [IMG="Intro Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/01-intro.png[/IMG]
@@ -103,7 +104,7 @@ Also if you got some ideas,bug fixes, stability improvements or want to help to 
                USE IMGUR, IT'S BETTER
 ***/
 
-[CENTER][IMG="FAQ Section"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/05-faq.png[/IMG][/CENTER]
+[CENTER][IMG="FAQ Section"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/05-faq.png[/IMG]
 
 Here's some small answer to your questions or just answer to questions.
 
@@ -142,3 +143,4 @@ Screenshots will be attached on this thread.
 * Video Recording (Use Footej Instead)
 * You tell me
 [/CODE]
+[/CENTER]
