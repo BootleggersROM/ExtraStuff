@@ -1,6 +1,6 @@
 # Xda Thread template (Recommended)
 
-Please, read the comments on the code given below, so you can customize on your way.
+Please, read the comments on the code given below, so you can customize on your way. Also, to make the thread format better, be sure to copy the code in Raw mode instead of the markdown below.
 
 
 ###Post 1
@@ -11,7 +11,9 @@ Please, read the comments on the code given below, so you can customize on your 
 
 [B]Bootleggers ROM[/B] is an aftermarket firmware based on [B]Ground Zero Open Source Project (GZOSP)[/B] and brings custom features with the most useful apps on your device, with the goal of [B]"Making you feel like 家"[/B].
 
-Using the stability and compatibility of GZOSP, this ROM is also packed with some custom wallpaper (Dawn by fxckingdeathwish), ringtones, and fonts, to bring to your device into a more fresh look, also with a selection of icons, header packs and wallpapers (on ShishuWalls app).
+Using the stability and compatibility of GZOSP, this ROM is also packed with some custom wallpaper (Dawn by fxckingdeathwish), ringtones, and fonts, to bring to your device into a more fresh look, also with a selection of apps, header packs and wallpapers (on ShishuWalls app).
+
+Also, we got our [URL="https://plus.google.com/communities/117332529104028864472"]Google+ Community[/URL] and our [URL="https://t.me/keepthebootleg"]Telegram Group[/URL]
 
 [IMG="Features Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/02-features.png[/IMG]
 
@@ -28,7 +30,6 @@ Some of the features that are included on this ROM are:
 * Custom Carrier Label
 * Power Menu Items
 * AOSP Recents: Membar, Clear All and Inmersive Recents.
-* SlimRecents: A quick way to manage your Recents.
 * Battery LED light settings
 * Type of notifications: Heads up and Ticker, pick your poison
 * Wake and Vibrate on Phone Plugged on Charger
@@ -39,6 +40,7 @@ Also, you can check a full list of Features available [URL="https://github.com/B
 [IMG="Thanks Section"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/03-thanks.png[/IMG]
 Thanks to this people, this ROM could be possible, so, i have to give a big thanks to:
 [CODE]* Shishu (For being there)
+* Cuspidroid Legacy (for everyday comment and support)
 * Ground Zero ROMs Team
 * AOSPExtended
 * ABC ROMs
@@ -72,6 +74,10 @@ Also if you got some ideas,bug fixes, stability improvements or want to help to 
                ALSO, YOU CAN POST ONLY YOUR KERNEL SOURCES
                AND POST LINKS AND MIRRORS IF YOU WISH
                JUST KEEP THE ROM SOURCES PART
+               
+               THE INFO BELOW IS THE EXAMPLE ONE (SURNIA)
+               SO PLEASE, MODIFY IT WITH YOUR DEVICE REPOS
+               OR REMOVE IT BUT SHARE THE KERNEL SOURCES!
 ***/
 [URL="https://thisisyoursite"]ROM Folder on AFH[/URL]
 [B]GApps:[/B]
@@ -119,14 +125,14 @@ Q: Can i make Bootleggers stuff like wallpapers, logos and stuff?
 A: Of course, feel free to do it, we will love it. 
 
 Q: Do you have any Telegram/G+ Group to chat and share stuff of the ROM?
-A: Not yet but if case many people request it, sure we'll do it[/CODE]
+A: Check the first paragraphs, you'll find it
+[/CODE]
 
 [IMG="Bugs and Screenshot Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/06-bugscreenshots.png[/IMG]
 Screenshots will be attached on this thread.
 
 [B]ROM Specific bugs:[/B]
 [CODE]
-* Recents button not working correctly (Use slimrecents by now)
 * Maybe some lags and unstability
 * You tell me
 [/CODE]
