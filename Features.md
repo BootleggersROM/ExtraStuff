@@ -11,7 +11,6 @@
 * Custom Carrier Label
 * Power Menu Items
 * AOSP Recents: Membar, Clear All and Inmersive Recents.
-* SlimRecents: A quick way to manage your Recents.
 * Battery LED light settings
 * Type of notifications: Heads up and Ticker, pick your poison
 * Wake and Vibrate on Phone Plugged on Charger
