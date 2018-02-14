@@ -3,7 +3,8 @@
 Please, read the comments on the code given below, so you can customize on your way. Also, to make the thread format better, be sure to copy the code in Raw mode instead of the markdown below.
 
 
-###Post 1
+Post 1
+======
 
 ```
 [CENTER][IMG="The main logo"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/00-banner.png[/IMG]
@@ -99,7 +100,8 @@ Also if you got some ideas,bug fixes, stability improvements or want to help to 
 ```
 
 
-###Post 2 (optional)
+Post 2 (optional)
+=================
 
 ```
 /***           THIS IS OPTIONAL TBH
