@@ -722,6 +722,20 @@
 				"thumbUrl": "http://i.imgur.com/9lWe5D8l.jpg",
 				"name": "Dawn",
                 "category": "no edit,not mine,cloudy mood"
+			},
+            		{
+				"author": "vvictoriaherrera",
+				"url": "http://i.imgur.com/UY6KtHC.jpg",
+				"thumbUrl": "http://i.imgur.com/UY6KtHCl.jpg",
+				"name": "19:32",
+                "category": "edit,not mine,cloudy mood"
+			},
+            		{
+				"author": "vvictoriaherrera",
+				"url": "http://i.imgur.com/8HfhUDt.jpg",
+				"thumbUrl": "http://i.imgur.com/8HfhUDtl.jpg",
+				"name": "A dark look",
+                "category": "edit,not mine,cloudy mood"
 			}
 		]
 }
