@@ -51,4 +51,5 @@
 * Ambient visualizer
 * Custom clock and date tweaks
 * Rootless substratum support
+* Shishu Dreams theme
 * Maybe more but i totally forgot about it
