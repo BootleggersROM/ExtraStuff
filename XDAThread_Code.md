@@ -5,6 +5,7 @@ Please, read the comments on the code given below, so you can customize on your 
 
 ###Post 1
 
+```
 [CENTER][IMG="The main logo"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/00-banner.png[/IMG]
 
 [IMG="Intro Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/01-intro.png[/IMG]
@@ -23,24 +24,23 @@ Some of the features that are included on this ROM are:
 * QS Rows and Colums
 * Scroll on small QS
 * OmniStyle: Header Images
-* OmniJaws: Weather on QS
 * Volume Keys: Wake up, skip tracks and switch according to rotation
 * Dirty Unicorns Interface (DUI): Fling, Smartbar and Pulse
-* Show song album cover and battery info on Lockscreen
+* Show song album cover, visualizer and battery info on Lockscreen
 * Custom Carrier Label
 * Power Menu Items
 * AOSP Recents: Membar, Clear All and Inmersive Recents.
 * Battery LED light settings
 * Type of notifications: Heads up and Ticker, pick your poison
-* Wake and Vibrate on Phone Plugged on Charger
-* AppOps: Manage your apps permissions in an advanced way[/CODE]
+* Suspend Actions: Make your device disable GPS and switch to 2G when you're not using it
+* AppOps: Manage your apps permissions in an advanced way
+[/CODE]
 
 Also, you can check a full list of Features available [URL="https://github.com/BootleggersROM/ExtraStuff/blob/master/Features.md"]here[/URL].
 
 [IMG="Thanks Section"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/threadfiles/03-thanks.png[/IMG]
 Thanks to this people, this ROM could be possible, so, i have to give a big thanks to:
 [CODE]* Shishu (For being there)
-* Cuspidroid Legacy (for everyday comment and support)
 * Ground Zero ROMs Team
 * AOSPExtended
 * ABC ROMs
@@ -54,10 +54,12 @@ Thanks to this people, this ROM could be possible, so, i have to give a big than
 * PixelExperience
 * PureNexus
 * merothh
-* Resurrection Remix (Inspiration)
+* Resurrection Remix
 * AOSiP
 * CrDroid
 * CypherOS
+* PureKat
+* theimpulson
 [/CODE]
 
 Also if you got some ideas,bug fixes, stability improvements or want to help to support features for your device, you can do it by sending a Pull request on Bootleggers Github (check downloads and sources part) or GZOSP Gerrit (also check the downloads and sources part), will be really appreciated. Together we can do a better ROM.
@@ -94,11 +96,12 @@ Also if you got some ideas,bug fixes, stability improvements or want to help to 
 [URL="https://github.com/GZOSP"]GZOSP Github[/URL]
 [URL="http://review.gzospgzr.com"]GZOSP Gerrit[/URL]
 [/CENTER]
-
+```
 
 
 ###Post 2 (optional)
 
+```
 /***           THIS IS OPTIONAL TBH
                IT'S ALL ON YOU TO MERGE IT WITH FIRST
                POST, OR REMOVING IT. IF YOU ADD IT
@@ -133,7 +136,7 @@ Screenshots will be attached on this thread.
 
 [B]ROM Specific bugs:[/B]
 [CODE]
-* Maybe some lags and unstability
+* Ambient visualizer doesn't work well sometimes
 * You tell me
 [/CODE]
 
@@ -150,3 +153,4 @@ Screenshots will be attached on this thread.
 * You tell me
 [/CODE]
 [/CENTER]
+```
