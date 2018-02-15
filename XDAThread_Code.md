@@ -120,8 +120,8 @@ Post 2 (optional)
 Here's some small answer to your questions or just answer to questions.
 
 [CODE]
-Q: Bootleggers? Why?
-A: Because Bootleg is something not original, or a fake copy, so, we're not being so original here... That's why we're bootleggers. 
+Q: Bootleggers? Why? What does that even mean?
+A: Bootleggers (on a context of toy bootlegs and related stuff) are the people who take an original idea or product and make their own version, obviously on a low-quality way.
 
 Q: What does the chinese/japanese thing means? I don't get it
 A: According to google (and take the meaning of this with a hundred quotation marks) it means home or family. We want you to use your phone and feel yourself comfortable, and like it, like you'll be at home.
