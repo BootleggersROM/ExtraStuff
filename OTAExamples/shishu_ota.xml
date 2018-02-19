@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <surnia>
+            <Filename>BootleggersROM-Oreo4surnia.2.0-BETA.Unshishufied-20180218-2210.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Latest Release"
+                description="Get the latest build here">https://basketbuild.com/uploads/devs/ElDainosor/.trash/wakemeup/maniac/BootleggersROM-Oreo4surnia.2.0-BETA.Unshishufied-20180218-2210.zip</RomUrl>
+            <!-- This is for people getting the latest gapps -->
+            <GzrURL
+                id="gzrgapps"
+                title="Latest GZR Gapps"
+                description="Get the latest GZR Gapps release">
+                https://androidfilehost.com/?w=search&s=GZR-GaPPs
+            </GzrURL>
+            <OpenGURL
+                id="opengapps"
+                title="Latest OpenGapps"
+                description="Get the latest OpenGapps release">
+                https://opengapps.org
+            </OpenGURL>
+            <!-- This is for some extra stuff that you might want to recommend like some device-specific mod and stuff -->
+            <BootlegAddonsURL
+                id="bootlegaddons"
+                title="Get our addons"
+                description="We didn't tell you about this?">
+                https://bootleggersrom.github.io/romstuff/addons
+            </BootlegAddonsURL>
+	</surnia>
+    </Stable>
+</SlimOTA>
