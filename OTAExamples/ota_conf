@@ -17,9 +17,9 @@ device_name=ro.bootleg.device
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
 #
-# Example with a property key 'ro.rr.version' : Parse the date 20150426 from 'ResurrectionRemix-M-v5.x.x-20150426-bacon'
+# Example with a property key 'ro.bootleg.version' : Parse the date 20180220.1540 from 'BootleggersROM-Oreo4mido.2.0-BETA-Unshishufied-20180220.1540'
 #
-# Version source: ro.rr.version
+# Version source: ro.bootleg.version
 # Version delimiter: -
 # Version position: 3 (zero based)
 # Version format: yyyyMMdd
@@ -35,5 +35,5 @@ device_name=ro.bootleg.device
 
 version_source=ro.bootleg.version
 version_delimiter=-
-version_position=3
-version_format=yyyyMMdd-HHmm
+version_position=4
+version_format=yyyyMMdd.HHmm
