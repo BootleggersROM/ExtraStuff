@@ -35,5 +35,5 @@ device_name=ro.bootleg.device
 
 version_source=ro.bootleg.version
 version_delimiter=-
-version_position=4
+version_position=3
 version_format=yyyyMMdd-HHmm
