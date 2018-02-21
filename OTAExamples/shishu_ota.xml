@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <surnia>
+        <bootleg_surnia>
             <Filename>BootleggersROM-Oreo4surnia.2.0-BETA-Unshishufied-20180221.1441.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Latest Release"
                 description="Get the latest build here">https://google.se</RomUrl>
-	</surnia>
+	</bootleg_surnia>
     </Stable>
 </SlimOTA>
