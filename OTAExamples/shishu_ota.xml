@@ -9,7 +9,7 @@ https://google.se
 			<ChangelogUrl id="changelog" title="" description="">
 https://github.com/bootleggersrom
 </ChangelogUrl>
-			<PaypalUrl id="donation" title="" description="">https://youtube.com</PaypalUrl>
+			<TestExtraURL id="gapps" title="See this link" description="A really interesting project">https://github.com/pizza-os</TestExtraURL>
 		</surnia>
 	</Stable>
 </SlimOTA>
