@@ -1,39 +1,8 @@
-#
-# ota_conf
-#
-# Note:
-# * Multiple devices can be added in the xml file
-# * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
-# * Chances are you only need to change the ota_url in this file 
-#
+#Common OTA url for all devices
 ota_url=https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/OTAExamples/shishu_ota.xml
 release_type=Stable
 device_name=ro.bootleg.device
- 
-#
-# VERSION
-#
-# A version can be a date or a number with characters
-# A version source can be a 'property key' from build.prop or a 'uname -r' command line
-# If a version is a number, leave the version_format empty. Otherwise, provide the date format
-#
-# Example with a property key 'ro.bootleg.version' : Parse the date 20180220.1540 from 'BootleggersROM-Oreo4mido.2.0-BETA-Unshishufied-20180220.1540'
-#
-# Version source: ro.bootleg.version
-# Version delimiter: -
-# Version position: 3 (zero based)
-# Version format: yyyyMMdd
-#
-# Example with 'uname -r': Parse the number 239 from '3.4.107~AK.239.OPO.CM12.1'
-#
-# Version source: uname -r
-# Version delimiter: .
-# Version position: 3 (zero based)
-# Version format:
-#
-# uname -r will only be needed if using the app for kernels, not required here
-
 version_source=ro.bootleg.version
 version_delimiter=-
 version_position=4
-version_format=yyyyMMdd.HHmm
+version_format=yyyyMMdd

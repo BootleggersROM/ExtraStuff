@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
-        <surnia>
-            <Filename>BootleggersROM-Oreo4surnia.2.0-BETA-Unshishufied-20180223.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Latest Release"
-                description="Get the latest build here">https://google.se</RomUrl>
-	</surnia>
-    </Stable>
+<SlimOTA
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+	<Stable>
+		<surnia>
+			<Filename>BootleggersROM-Oreo4surnia.2.0-BETA-Unshishufied-20180223.zip</Filename>
+			<RomUrl id="rom" title="" description="">
+https://google.se
+</RomUrl>
+			<ChangelogUrl id="changelog" title="" description="">
+https://github.com/bootleggersrom
+</ChangelogUrl>
+			<PaypalUrl id="donation" title="" description="">https://youtube.com</PaypalUrl>
+		</surnia>
+	</Stable>
 </SlimOTA>
