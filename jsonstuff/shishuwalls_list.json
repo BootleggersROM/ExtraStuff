@@ -736,6 +736,20 @@
 				"thumbUrl": "http://i.imgur.com/8HfhUDtl.jpg",
 				"name": "A dark look",
                 "category": "edit,not mine,cloudy mood"
+			},
+            		{
+				"author": "apolanco",
+				"url": "http://i.imgur.com/FFIVzb8.jpg",
+				"thumbUrl": "http://i.imgur.com/FFIVzb8l.jpg",
+				"name": "I'm on Fire",
+                "category": "no edit,not mine"
+			},
+            		{
+				"author": "apolanco",
+				"url": "http://i.imgur.com/0X15RXM.jpg",
+				"thumbUrl": "http://i.imgur.com/0X15RXMl.jpg",
+				"name": "With Love From Havana",
+                "category": "no edit,not mine"
 			}
 		]
 }
