@@ -1,6 +1,6 @@
 # Build Variables for Bootleggers
 
-This guide will include additional variables that you can use at the time of building the ROM. For a basic building guide, please refer to [our manifest](https://github.com/Bootleggers-BrokenLab/manifest/README.md). 
+This guide will include additional variables that you can use at the time of building the ROM. This is not a basic build guide. We will provide one soon.
 
 ## Exportable variables
 
@@ -38,11 +38,10 @@ Allows you to ship a bundle of apps. These apps are a calculator, a calendar, a 
 
 We include this apps because these are mostly needed when you go out or in any circunstance. But if you prefer a cleaner system, you can disable them. This applies also to gapps. 
 
-Our list of bundled apps (currently, this might be changed) is the following:
-
+Our list of bundled apps (currently) is the following:
 
 | **App category** | **Non-gapps variant**      | **Gapps variant** |
-|------------------|----------------------------|-------------------|
+| ---------------- | -------------------------- | ----------------- |
 | Browser          | Jelly                      | Google Chrome     |
 | Calendar         | Etar                       | Google Calendar   |
 | Calculator       | AOSP Calculator            | Google Calculator |
