@@ -1,8 +1,0 @@
-#Common OTA url for all devices
-ota_url=https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/master/OTAExamples/shishu_ota.xml
-release_type=Stable
-device_name=ro.bootleg.device
-version_source=ro.bootleg.version
-version_delimiter=-
-version_position=4
-version_format=yyyyMMdd
