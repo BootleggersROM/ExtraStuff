@@ -6,7 +6,7 @@ Please notice that
 ```
 /***        
             THIS IS A COMMENT, I SHOULD BE REMOVED
-            BECAUSE THIS IS JUST FOR YOU TO READ, NOT TO ADD TO XDA THREAD
+            BECAUSE THIS IS JUST FOR YOU (THE FORUM POSTER) TO READ, NOT TO ADD TO XDA THREAD
 ***/
 
 [B] This belongs on the xda thread, not the above text [/B]
@@ -17,34 +17,30 @@ Post 1
 ======
 
 ```
-[CENTER][IMG="The main logo"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/pasta/threadfiles/00-banner.png[/IMG]
+[CENTER][IMG="The main logo"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/00-banner.png[/IMG]
 
-[IMG="Intro Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/pasta/threadfiles/01-intro.png[/IMG]
+[IMG="Intro Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/01-intro.png[/IMG]
 
 [B]Bootleggers ROM[/B] is an aftermarket firmware based on AOSP with some patches and fixes from LineageOS and various other projects. The idea is to bring custom features and some of the most useful apps on your device, with the goal of [B]Making you feel like 家[/B].
 
-With an almost stable source, this ROM is also packed with some custom wallpapers (avaliable on ShishuWalls), ringtones, fonts, and themes to bring to your device into a more fresh look and give you always a good experience.
+With an almost stable source, this ROM is also packed with some custom wallpapers (avaliable on the system wallpaper app), ringtones, fonts, and themes to bring to your device into a more fresh look and give you always a good experience.
 
 Also, we got our [URL="https://t.me/keepthebootleg"]Telegram Group[/URL] to talk about the ROM, share some love, ideas or even have fun with us!
 
-[IMG="Features Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/pasta/threadfiles/02-features.png[/IMG]
+[IMG="Features Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/02-features.png[/IMG]
 
 Some of the features that are included on this ROM are:
 [CODE]
-* QS Rows and Colums
-* Volume Keys: Wake up, skip tracks and switch according to rotation
-* Show song album cover, visualizer and battery info on Lockscreen
-* Power Menu Items
-* Battery LED light settings
-* Suspend Actions: Make your device disable GPS and switch to 2G when you're not using it
-* AppOps: Manage your apps permissions in an advanced way
-* Recent Styles: Dig the new Pie Quickstep recents, go back to the classic layout or use the Android Go layout
-* Network icons: Show or hide the cross, switch between 4G or LTE, use the classic icon layout before Pie or toggle roaming icon too!
+* Our custom Launcher3 fork with features and tweaks to make it your own 
+* A selection of themes, fonts, and more personalization options (from custom fonts to UI Styles)
+* A selection of useful apps to help you on your daily usage
+* The Bootleg Dumpster, where you can get a lot of option and features that you want to tweak on your device
+* And more to come!
 [/CODE]
 
-Also, you can check a full list of Features available [URL="https://github.com/BootleggersROM/ExtraStuff/blob/pasta/Features.md"]here[/URL].
+If we're missing a feature you enjoy, please let us know on our telegram group, we're always up to listen to our users on suggestions and feature requests!
 
-[IMG="Thanks Section"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/pasta/threadfiles/04-thanks.png[/IMG]
+[IMG="Thanks Section"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/04-thanks.png[/IMG]
 Thanks to this people, this ROM could be possible, so, i have to give a big thanks to:
 [CODE]* Shishu (For being there)
 * Ground Zero ROMs Team
@@ -72,14 +68,19 @@ Thanks to this people, this ROM could be possible, so, i have to give a big than
 * AquariOS
 * Alejandro Ponce (Quetzal/Calypso dev)
 * PixysOS 
+* ArrowOS
+* BlissROMs
 * The Memedo Testers team
+* Deepakjr_11
+* tribual
+* ouroboros420
 * Every maintainer who decided to give our project a shot
 * You for your interest on our project
 [/CODE]
 
-Also if you got some ideas,bug fixes, stability improvements or want to help to support features for your device, you can do it by sending a Pull request on Bootleggers Github (check downloads and sources part) or tell us on our Telegram group (Check about us section), will be really appreciated.  Got some questions about some terms we use? [URL="http://bootleggersrom.github.io/faq"]Check our FAQ[/URL] or feel free to ask us. We appreciate your feedback and help.
+Also if you got some ideas,bug fixes, stability improvements or want to help to support features for your device, you can do it by sending a Pull request on Bootleggers GitHub (check downloads and sources part) or tell us on our Telegram group (Check about us section), will be really appreciated.  Got some questions about some terms we use? [URL="http://bootleggersrom.github.io/faq"]Check our FAQ[/URL] or feel free to ask us. We appreciate your feedback and help.
 
-[IMG="Downloads Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/pasta/threadfiles/03-downloads.png[/IMG]
+[IMG="Downloads Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/03-downloads.png[/IMG]
 
 [B]Downloads:[/B]
 /***           THIS IS FOR
@@ -96,20 +97,17 @@ Also if you got some ideas,bug fixes, stability improvements or want to help to 
                SO PLEASE, MODIFY IT WITH YOUR DEVICE REPOS
                OR REMOVE IT BUT SHARE THE KERNEL SOURCES!
 ***/
-[URL="https://thisisyoursite"]ROM Folder on AFH[/URL]
+[URL="https://thisisyoursite"]ROM Folder[/URL]
 [B]GApps:[/B]
 [URL="http://opengapps.org"]Opengapps [/URL]
 
-[IMG="Sources Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/pasta/threadfiles/05-sources.png[/IMG]
+[IMG="Sources Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/05-sources.png[/IMG]
 
 [B]Device Sources:[/B]
 [URL="https://github.com/oreo-surnia/android_device_motorola_surnia"]Surnia tree[/URL]
-[URL="https://github.com/AOSMP-Devices/android_device_motorola_msm8916-common"]msm8916-common tree[/URL]
-[URL="https://github.com/oreo-surnia/android_kernel_motorola_msm8916"]Kernel tree[/URL]
-[URL="https://github.com/AOSMP-Devices/proprietary_vendor_motorola"]Vendor tree[/URL]
 
 [B]ROM Sources[/B]
-[URL="https://github.com/BootleggersROM"]Bootleggers Github[/URL]
+[URL="https://github.com/BootleggersROM"]Bootleggers GitHub[/URL]
 [/CENTER]
 ```
 
@@ -129,11 +127,10 @@ Post 2 (optional)
                USE IMGUR, IT'S BETTER
 ***/
 
-[CENTER][IMG="Bugs Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/pasta/threadfiles/07-buglist.png[/IMG]
+[CENTER][IMG="Bugs Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/07-buglist.png[/IMG]
 
 [B]ROM Specific bugs:[/B]
 [CODE]
-* Statusbar clock showing on LS
 * You tell me
 [/CODE]
 
@@ -149,7 +146,7 @@ Post 2 (optional)
 * You tell me
 [/CODE]
 
-[IMG="Screenshot Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/pasta/threadfiles/06-screenshots.png[/IMG]
+[IMG="Screenshot Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/06-screenshots.png[/IMG]
 Screenshots will be added as attachments of this post
 [/CENTER]
 ```
