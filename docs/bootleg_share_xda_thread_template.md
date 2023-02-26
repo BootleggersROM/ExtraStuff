@@ -1,6 +1,6 @@
 # Xda Thread template (Recommended)
 
-Please, read the comments on the code given below, so you can customize on your way. Also, to make the thread format better, be sure to copy the code in Raw mode instead of the markdown below.
+Please, read the comments on the code given below, so you can customize it on your way. Also, to make the thread format better, be sure to copy the code in Raw mode instead of the markdown below.
 
 Please notice that 
 ```
@@ -9,9 +9,8 @@ Please notice that
             BECAUSE THIS IS JUST FOR YOU (THE FORUM POSTER) TO READ, NOT TO ADD TO XDA THREAD
 ***/
 
-[B] This belongs on the xda thread, not the above text [/B]
+[B] This belongs on the XDA thread, not the above text [/B]
 ```
-
 
 Post 1
 ======
@@ -21,27 +20,27 @@ Post 1
 
 [IMG="Intro Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/01-intro.png[/IMG]
 
-[B]Bootleggers ROM[/B] is an aftermarket firmware based on AOSP with some patches and fixes from LineageOS and various other projects. The idea is to bring custom features and some of the most useful apps on your device, with the goal of [B]Making you feel like 家[/B].
+[B]Bootleggers ROM[/B] is an aftermarket firmware based on AOSP with some patches and fixes from LineageOS and various other projects. The idea is to bring custom features and some of the most useful apps to your device, with the goal of [B]Making you feel like 家[/B].
 
-With an almost stable source, this ROM is also packed with some custom wallpapers (avaliable on the system wallpaper app), ringtones, fonts, and themes to bring to your device into a more fresh look and give you always a good experience.
+With an almost stable source, this ROM is also packed with some custom wallpapers (available on the system wallpaper app), ringtones, fonts, and themes to bring your device a fresh look and give you always a good experience.
 
-Also, we got our [URL="https://t.me/keepthebootleg"]Telegram Group[/URL] to talk about the ROM, share some love, ideas or even have fun with us!
+Also, we got our [URL="https://t.me/keepthebootleg"]Telegram Group[/URL] to talk about the ROM, share some love, and ideas, or even have fun with us!
 
 [IMG="Features Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/02-features.png[/IMG]
 
-Some of the features that are included on this ROM are:
+Some of the features that are included in this ROM are:
 [CODE]
 * Our custom Launcher3 fork with features and tweaks to make it your own 
 * A selection of themes, fonts, and more personalization options (from custom fonts to UI Styles)
-* A selection of useful apps to help you on your daily usage
-* The Bootleg Dumpster, where you can get a lot of option and features that you want to tweak on your device
+* A selection of useful apps to help you with your daily usage
+* The Bootleg Dumpster, where you can get a lot of options and features that you want to tweak on your device
 * And more to come!
 [/CODE]
 
 If we're missing a feature you enjoy, please let us know on our telegram group, we're always up to listen to our users on suggestions and feature requests!
 
 [IMG="Thanks Section"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/04-thanks.png[/IMG]
-Thanks to this people, this ROM could be possible, so, i have to give a big thanks to:
+Thanks to these people, this ROM could be possible, so, I have to give a big thanks to:
 [CODE]* Shishu (For being there)
 * Ground Zero ROMs Team
 * AOSPExtended
@@ -75,28 +74,27 @@ Thanks to this people, this ROM could be possible, so, i have to give a big than
 * tribual
 * ouroboros420
 * Every maintainer who decided to give our project a shot
-* You for your interest on our project
+* You for your interest in our project
 [/CODE]
 
-Also if you got some ideas,bug fixes, stability improvements or want to help to support features for your device, you can do it by sending a Pull request on Bootleggers GitHub (check downloads and sources part) or tell us on our Telegram group (Check about us section), will be really appreciated.  Got some questions about some terms we use? [URL="http://bootleggersrom.github.io/faq"]Check our FAQ[/URL] or feel free to ask us. We appreciate your feedback and help.
+Also if you got some ideas, bug fixes, or stability improvements or want to help to support features for your device, you can do it by sending a Pull Request on Bootleggers GitHub (check downloads and sources part) or tell us on our Telegram group (Check about us section), will be really appreciated.  Got some questions about some terms we use? [URL="http://bootleggersrom.github.io/faq"]Check our FAQ[/URL] or feel free to ask us. We appreciate your feedback and help.
 
 [IMG="Downloads Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/03-downloads.png[/IMG]
 
 [B]Downloads:[/B]
 /***           THIS IS FOR
                POSTING YOUR LINKS, IN CASE YOU WANT
-               TO POST A LINK, OR YOUR SOURCES
+               TO POST A LINK OR YOUR SOURCES
                TO BE USED AND OPTIMIZED, OR MAYBE NOT
                WHATEVER YOU WANT, IT'S PRETTY OPTIONAL
-               
                ALSO, YOU CAN POST ONLY YOUR KERNEL SOURCES
                AND POST LINKS AND MIRRORS IF YOU WISH
                JUST KEEP THE ROM SOURCES PART
-               
                THE INFO BELOW IS THE EXAMPLE ONE (SURNIA)
                SO PLEASE, MODIFY IT WITH YOUR DEVICE REPOS
                OR REMOVE IT BUT SHARE THE KERNEL SOURCES!
 ***/
+
 [URL="https://thisisyoursite"]ROM Folder[/URL]
 [B]GApps:[/B]
 [URL="http://opengapps.org"]Opengapps [/URL]
@@ -118,9 +116,8 @@ Post 2 (optional)
 ```
 /***           THIS IS OPTIONAL TBH
                IT'S ALL ON YOU TO MERGE IT WITH FIRST
-               POST, OR REMOVING IT. IF YOU ADD IT
+               POST, OR REMOVE IT. IF YOU ADD IT
                WE'LL APPRECIATE IT, THANKS
-
                IF YOU WANT TO LINK A EXTERNAL GALLERY
                YOU CAN DO IT TOO, JUST REMOVE THE 
                ATTACHED TEXT AND ADD A LINK TO THE GALLERY
@@ -134,8 +131,8 @@ Post 2 (optional)
 * You tell me
 [/CODE]
 
-/***           THIS IS YOUR DEVICE SPECIFIC BUGS
-               YOU CAN WROTE HERE IF YOUR DEVICE
+/***           THIS IS YOUR DEVICE-SPECIFIC BUGS
+               YOU CAN WRITE HERE IF YOUR DEVICE
                IS FACING SOME ISSUES AND STUFF
                (IF YOU WISH)
 ***/
@@ -147,6 +144,6 @@ Post 2 (optional)
 [/CODE]
 
 [IMG="Screenshot Part"]https://raw.githubusercontent.com/BootleggersROM/ExtraStuff/main/images/xdathread/06-screenshots.png[/IMG]
-Screenshots will be added as attachments of this post
+Screenshots will be added as attachments to this post
 [/CENTER]
 ```
